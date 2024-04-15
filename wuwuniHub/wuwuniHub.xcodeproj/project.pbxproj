@@ -11,21 +11,19 @@
 		A984D4782BCC867F0084F25E /* FiraGO-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A984D4762BCC867F0084F25E /* FiraGO-Regular.ttf */; };
 		A984D4792BCC867F0084F25E /* FiraGO-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A984D4772BCC867F0084F25E /* FiraGO-SemiBold.ttf */; };
 		A984D47B2BCCECE00084F25E /* UiLabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A984D47A2BCCECE00084F25E /* UiLabelExtension.swift */; };
-		A984D47D2BCCF1D90084F25E /* onboarding.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D47C2BCCF1D90084F25E /* onboarding.png */; };
+		A984D4822BCD9C9C0084F25E /* Frame 63.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D47E2BCD9C9B0084F25E /* Frame 63.png */; };
+		A984D4832BCD9C9C0084F25E /* Frame 62.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D47F2BCD9C9C0084F25E /* Frame 62.png */; };
+		A984D4842BCD9C9C0084F25E /* Frame 65.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D4802BCD9C9C0084F25E /* Frame 65.png */; };
+		A984D4852BCD9C9C0084F25E /* Frame 64.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D4812BCD9C9C0084F25E /* Frame 64.png */; };
+		A984D4872BCD9CCF0084F25E /* Rectangle 1.png in Resources */ = {isa = PBXBuildFile; fileRef = A984D4862BCD9CCF0084F25E /* Rectangle 1.png */; };
 		A99680102BCAE7FE00A58FC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A996800F2BCAE7FE00A58FC1 /* AppDelegate.swift */; };
 		A99680122BCAE7FE00A58FC1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99680112BCAE7FE00A58FC1 /* SceneDelegate.swift */; };
 		A99680142BCAE7FE00A58FC1 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99680132BCAE7FE00A58FC1 /* MainViewController.swift */; };
 		A99680192BCAE7FF00A58FC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A99680182BCAE7FF00A58FC1 /* Assets.xcassets */; };
 		A996801C2BCAE7FF00A58FC1 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A996801B2BCAE7FF00A58FC1 /* Base */; };
-		A99680242BCAE91D00A58FC1 /* Rectangle 1.png in Resources */ = {isa = PBXBuildFile; fileRef = A99680232BCAE91D00A58FC1 /* Rectangle 1.png */; };
 		A99680262BCAE9E100A58FC1 /* OnBoardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99680252BCAE9E100A58FC1 /* OnBoardingViewController.swift */; };
-		A996802E2BCAF33E00A58FC1 /* bk.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A996802D2BCAF33E00A58FC1 /* bk.pdf */; };
 		A99680582BCAFFC100A58FC1 /* AddNewCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99680572BCAFFC100A58FC1 /* AddNewCardViewController.swift */; };
 		A996805A2BCB001200A58FC1 /* Background.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99680592BCB001200A58FC1 /* Background.swift */; };
-		A996805C2BCB0DA200A58FC1 /* Frame 62.png in Resources */ = {isa = PBXBuildFile; fileRef = A996805B2BCB0DA200A58FC1 /* Frame 62.png */; };
-		A996805E2BCB0DAD00A58FC1 /* Frame 63.png in Resources */ = {isa = PBXBuildFile; fileRef = A996805D2BCB0DAD00A58FC1 /* Frame 63.png */; };
-		A99680612BCB0DBE00A58FC1 /* Frame 64.png in Resources */ = {isa = PBXBuildFile; fileRef = A996805F2BCB0DBE00A58FC1 /* Frame 64.png */; };
-		A99680622BCB0DBE00A58FC1 /* Frame 65.png in Resources */ = {isa = PBXBuildFile; fileRef = A99680602BCB0DBE00A58FC1 /* Frame 65.png */; };
 		A996807E2BCBCEA100A58FC1 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A996807D2BCBCEA100A58FC1 /* CustomCell.swift */; };
 		A99680802BCC69E000A58FC1 /* Group 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A996807F2BCC69E000A58FC1 /* Group 4.jpg */; };
 		A99680822BCC6B1600A58FC1 /* Group 4 (1).pdf in Resources */ = {isa = PBXBuildFile; fileRef = A99680812BCC6B1600A58FC1 /* Group 4 (1).pdf */; };
@@ -37,7 +35,11 @@
 		A984D4762BCC867F0084F25E /* FiraGO-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraGO-Regular.ttf"; sourceTree = "<group>"; };
 		A984D4772BCC867F0084F25E /* FiraGO-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraGO-SemiBold.ttf"; sourceTree = "<group>"; };
 		A984D47A2BCCECE00084F25E /* UiLabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UiLabelExtension.swift; sourceTree = "<group>"; };
-		A984D47C2BCCF1D90084F25E /* onboarding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = onboarding.png; path = ../../../../Downloads/onboarding.png; sourceTree = "<group>"; };
+		A984D47E2BCD9C9B0084F25E /* Frame 63.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frame 63.png"; sourceTree = "<group>"; };
+		A984D47F2BCD9C9C0084F25E /* Frame 62.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frame 62.png"; sourceTree = "<group>"; };
+		A984D4802BCD9C9C0084F25E /* Frame 65.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frame 65.png"; sourceTree = "<group>"; };
+		A984D4812BCD9C9C0084F25E /* Frame 64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frame 64.png"; sourceTree = "<group>"; };
+		A984D4862BCD9CCF0084F25E /* Rectangle 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 1.png"; sourceTree = "<group>"; };
 		A996800C2BCAE7FE00A58FC1 /* wuwuniHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wuwuniHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A996800F2BCAE7FE00A58FC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A99680112BCAE7FE00A58FC1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,15 +47,9 @@
 		A99680182BCAE7FF00A58FC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A996801B2BCAE7FF00A58FC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A996801D2BCAE7FF00A58FC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A99680232BCAE91D00A58FC1 /* Rectangle 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 1.png"; path = "../../../../Downloads/Rectangle 1.png"; sourceTree = "<group>"; };
 		A99680252BCAE9E100A58FC1 /* OnBoardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingViewController.swift; sourceTree = "<group>"; };
-		A996802D2BCAF33E00A58FC1 /* bk.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = bk.pdf; path = ../../../../Downloads/bk.pdf; sourceTree = "<group>"; };
 		A99680572BCAFFC100A58FC1 /* AddNewCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewCardViewController.swift; sourceTree = "<group>"; };
 		A99680592BCB001200A58FC1 /* Background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.swift; sourceTree = "<group>"; };
-		A996805B2BCB0DA200A58FC1 /* Frame 62.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Frame 62.png"; path = "../../../../Downloads/წუწუნი ჰაბი/Frame 62.png"; sourceTree = "<group>"; };
-		A996805D2BCB0DAD00A58FC1 /* Frame 63.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Frame 63.png"; path = "../../../../Downloads/წუწუნი ჰაბი/Frame 63.png"; sourceTree = "<group>"; };
-		A996805F2BCB0DBE00A58FC1 /* Frame 64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Frame 64.png"; path = "../../../../Downloads/წუწუნი ჰაბი/Frame 64.png"; sourceTree = "<group>"; };
-		A99680602BCB0DBE00A58FC1 /* Frame 65.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Frame 65.png"; path = "../../../../Downloads/წუწუნი ჰაბი/Frame 65.png"; sourceTree = "<group>"; };
 		A996807D2BCBCEA100A58FC1 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 		A996807F2BCC69E000A58FC1 /* Group 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Group 4.jpg"; sourceTree = "<group>"; };
 		A99680812BCC6B1600A58FC1 /* Group 4 (1).pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Group 4 (1).pdf"; sourceTree = "<group>"; };
@@ -71,6 +67,91 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A984D4882BCDA3090084F25E /* App */ = {
+			isa = PBXGroup;
+			children = (
+				A996800F2BCAE7FE00A58FC1 /* AppDelegate.swift */,
+				A99680112BCAE7FE00A58FC1 /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		A984D4892BCDA3780084F25E /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				A996807D2BCBCEA100A58FC1 /* CustomCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		A984D48A2BCDA3B70084F25E /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				A984D48D2BCDA4710084F25E /* Launch */,
+				A984D48B2BCDA3DC0084F25E /* Cards */,
+				A984D48C2BCDA3FF0084F25E /* Onboarding */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		A984D48B2BCDA3DC0084F25E /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				A99680572BCAFFC100A58FC1 /* AddNewCardViewController.swift */,
+				A99680132BCAE7FE00A58FC1 /* MainViewController.swift */,
+			);
+			path = Cards;
+			sourceTree = "<group>";
+		};
+		A984D48C2BCDA3FF0084F25E /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				A99680252BCAE9E100A58FC1 /* OnBoardingViewController.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		A984D48D2BCDA4710084F25E /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				A996801A2BCAE7FF00A58FC1 /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		A984D48E2BCDA4A20084F25E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A984D47A2BCCECE00084F25E /* UiLabelExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A984D48F2BCDA4BC0084F25E /* Extras */ = {
+			isa = PBXGroup;
+			children = (
+				A99680592BCB001200A58FC1 /* Background.swift */,
+			);
+			path = Extras;
+			sourceTree = "<group>";
+		};
+		A984D4902BCDA4D60084F25E /* Recourses */ = {
+			isa = PBXGroup;
+			children = (
+				A99680832BCC6B9100A58FC1 /* onboarding.png */,
+				A99680812BCC6B1600A58FC1 /* Group 4 (1).pdf */,
+				A984D4862BCD9CCF0084F25E /* Rectangle 1.png */,
+				A984D47F2BCD9C9C0084F25E /* Frame 62.png */,
+				A984D47E2BCD9C9B0084F25E /* Frame 63.png */,
+				A984D4812BCD9C9C0084F25E /* Frame 64.png */,
+				A984D4802BCD9C9C0084F25E /* Frame 65.png */,
+				A996807F2BCC69E000A58FC1 /* Group 4.jpg */,
+				A996801D2BCAE7FF00A58FC1 /* Info.plist */,
+				A99680182BCAE7FF00A58FC1 /* Assets.xcassets */,
+			);
+			path = Recourses;
+			sourceTree = "<group>";
+		};
 		A99680032BCAE7FE00A58FC1 = {
 			isa = PBXGroup;
 			children = (
@@ -93,27 +174,12 @@
 		A996800E2BCAE7FE00A58FC1 /* wuwuniHub */ = {
 			isa = PBXGroup;
 			children = (
-				A996800F2BCAE7FE00A58FC1 /* AppDelegate.swift */,
-				A984D47C2BCCF1D90084F25E /* onboarding.png */,
-				A99680232BCAE91D00A58FC1 /* Rectangle 1.png */,
-				A99680252BCAE9E100A58FC1 /* OnBoardingViewController.swift */,
-				A99680832BCC6B9100A58FC1 /* onboarding.png */,
-				A99680812BCC6B1600A58FC1 /* Group 4 (1).pdf */,
-				A996807F2BCC69E000A58FC1 /* Group 4.jpg */,
-				A99680592BCB001200A58FC1 /* Background.swift */,
-				A99680572BCAFFC100A58FC1 /* AddNewCardViewController.swift */,
-				A996805F2BCB0DBE00A58FC1 /* Frame 64.png */,
-				A99680602BCB0DBE00A58FC1 /* Frame 65.png */,
-				A996805D2BCB0DAD00A58FC1 /* Frame 63.png */,
-				A996805B2BCB0DA200A58FC1 /* Frame 62.png */,
-				A996802D2BCAF33E00A58FC1 /* bk.pdf */,
-				A99680112BCAE7FE00A58FC1 /* SceneDelegate.swift */,
-				A99680132BCAE7FE00A58FC1 /* MainViewController.swift */,
-				A996807D2BCBCEA100A58FC1 /* CustomCell.swift */,
-				A984D47A2BCCECE00084F25E /* UiLabelExtension.swift */,
-				A99680182BCAE7FF00A58FC1 /* Assets.xcassets */,
-				A996801A2BCAE7FF00A58FC1 /* LaunchScreen.storyboard */,
-				A996801D2BCAE7FF00A58FC1 /* Info.plist */,
+				A984D4902BCDA4D60084F25E /* Recourses */,
+				A984D4882BCDA3090084F25E /* App */,
+				A984D4892BCDA3780084F25E /* Cells */,
+				A984D48A2BCDA3B70084F25E /* Scenes */,
+				A984D48E2BCDA4A20084F25E /* Extensions */,
+				A984D48F2BCDA4BC0084F25E /* Extras */,
 			);
 			path = wuwuniHub;
 			sourceTree = "<group>";
@@ -176,21 +242,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A984D4852BCD9C9C0084F25E /* Frame 64.png in Resources */,
 				A99680842BCC6B9200A58FC1 /* onboarding.png in Resources */,
-				A996802E2BCAF33E00A58FC1 /* bk.pdf in Resources */,
-				A996805C2BCB0DA200A58FC1 /* Frame 62.png in Resources */,
-				A99680242BCAE91D00A58FC1 /* Rectangle 1.png in Resources */,
+				A984D4842BCD9C9C0084F25E /* Frame 65.png in Resources */,
 				A99680802BCC69E000A58FC1 /* Group 4.jpg in Resources */,
 				A984D4782BCC867F0084F25E /* FiraGO-Regular.ttf in Resources */,
-				A99680612BCB0DBE00A58FC1 /* Frame 64.png in Resources */,
-				A996805E2BCB0DAD00A58FC1 /* Frame 63.png in Resources */,
-				A99680622BCB0DBE00A58FC1 /* Frame 65.png in Resources */,
 				A99680192BCAE7FF00A58FC1 /* Assets.xcassets in Resources */,
 				A99680822BCC6B1600A58FC1 /* Group 4 (1).pdf in Resources */,
 				A984D4792BCC867F0084F25E /* FiraGO-SemiBold.ttf in Resources */,
+				A984D4832BCD9C9C0084F25E /* Frame 62.png in Resources */,
+				A984D4822BCD9C9C0084F25E /* Frame 63.png in Resources */,
 				A996801C2BCAE7FF00A58FC1 /* Base in Resources */,
 				A984D4752BCC84F50084F25E /* FiraGO-Medium.ttf in Resources */,
-				A984D47D2BCCF1D90084F25E /* onboarding.png in Resources */,
+				A984D4872BCD9CCF0084F25E /* Rectangle 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,7 +417,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = wuwuniHub/Info.plist;
+				INFOPLIST_FILE = wuwuniHub/Recourses/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -379,7 +443,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = wuwuniHub/Info.plist;
+				INFOPLIST_FILE = wuwuniHub/Recourses/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
